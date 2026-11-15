@@ -1,0 +1,6 @@
+{
+  "name": "Junior Martian Outpost Commander",
+  "description": "An interactive 3D NASA Space Apps educational game set in Jezero Crater where young commanders balance rocket payload mass, clean dusty solar arrays with Rover-Bot 9000, and survive live DONKI solar radiation storms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
